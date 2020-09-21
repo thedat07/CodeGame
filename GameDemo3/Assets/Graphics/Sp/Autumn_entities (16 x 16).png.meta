@@ -1,0 +1,1426 @@
+fileFormatVersion: 2
+guid: 3fe5d9250563e914eb7a7dfc8744f02a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -406687925534975052
+    second: Autumn_entities (16 x 16)_0
+  - first:
+      213: 4687957587714963813
+    second: Autumn_entities (16 x 16)_1
+  - first:
+      213: -2329183655849485194
+    second: Autumn_entities (16 x 16)_2
+  - first:
+      213: 3079233502528036278
+    second: Autumn_entities (16 x 16)_3
+  - first:
+      213: 5458939830573632764
+    second: Autumn_entities (16 x 16)_4
+  - first:
+      213: -1965664334430982820
+    second: Autumn_entities (16 x 16)_5
+  - first:
+      213: -2705358519395448153
+    second: Autumn_entities (16 x 16)_6
+  - first:
+      213: -1810565749971843173
+    second: Autumn_entities (16 x 16)_7
+  - first:
+      213: -3349583010610816479
+    second: Autumn_entities (16 x 16)_8
+  - first:
+      213: -6305946521503317828
+    second: Autumn_entities (16 x 16)_9
+  - first:
+      213: 5817668281335447814
+    second: Autumn_entities (16 x 16)_10
+  - first:
+      213: -2410864547075970606
+    second: Autumn_entities (16 x 16)_11
+  - first:
+      213: -7921414660083279870
+    second: Autumn_entities (16 x 16)_12
+  - first:
+      213: -6080560785090752447
+    second: Autumn_entities (16 x 16)_13
+  - first:
+      213: 2606244188216286482
+    second: Autumn_entities (16 x 16)_14
+  - first:
+      213: -5514466303463837578
+    second: Autumn_entities (16 x 16)_15
+  - first:
+      213: 476686262680595655
+    second: Autumn_entities (16 x 16)_16
+  - first:
+      213: -3088937846463046258
+    second: Autumn_entities (16 x 16)_17
+  - first:
+      213: 6079867400156877548
+    second: Autumn_entities (16 x 16)_18
+  - first:
+      213: 1474086602154212299
+    second: Autumn_entities (16 x 16)_19
+  - first:
+      213: -8534719028649595044
+    second: Autumn_entities (16 x 16)_20
+  - first:
+      213: -2082273528022565798
+    second: Autumn_entities (16 x 16)_21
+  - first:
+      213: 1008807712556606217
+    second: Autumn_entities (16 x 16)_22
+  - first:
+      213: -6029053989229624912
+    second: Autumn_entities (16 x 16)_23
+  - first:
+      213: 6219543100187316011
+    second: Autumn_entities (16 x 16)_24
+  - first:
+      213: -318202470578473503
+    second: Autumn_entities (16 x 16)_25
+  - first:
+      213: -5005884727179254676
+    second: Autumn_entities (16 x 16)_26
+  - first:
+      213: 7139701650988479234
+    second: Autumn_entities (16 x 16)_27
+  - first:
+      213: -6874828809007704542
+    second: Autumn_entities (16 x 16)_28
+  - first:
+      213: 8949635067924550200
+    second: Autumn_entities (16 x 16)_29
+  - first:
+      213: 6716692436691914265
+    second: Autumn_entities (16 x 16)_30
+  - first:
+      213: 617449859188843976
+    second: Autumn_entities (16 x 16)_31
+  - first:
+      213: 7460139610656415904
+    second: Autumn_entities (16 x 16)_32
+  - first:
+      213: -2450956481032773533
+    second: Autumn_entities (16 x 16)_33
+  - first:
+      213: 1970601817919807582
+    second: Autumn_entities (16 x 16)_34
+  - first:
+      213: -5529601067274293823
+    second: Autumn_entities (16 x 16)_35
+  - first:
+      213: 2882515907738062201
+    second: Autumn_entities (16 x 16)_36
+  - first:
+      213: -2425804904769285397
+    second: Autumn_entities (16 x 16)_37
+  - first:
+      213: -648296030823424697
+    second: Autumn_entities (16 x 16)_38
+  - first:
+      213: 791098614274741234
+    second: Autumn_entities (16 x 16)_39
+  - first:
+      213: -6049184761866638954
+    second: Autumn_entities (16 x 16)_40
+  - first:
+      213: -5664263926274358740
+    second: Autumn_entities (16 x 16)_41
+  - first:
+      213: -1723860717871225339
+    second: Autumn_entities (16 x 16)_42
+  - first:
+      213: 2351999934280698263
+    second: Autumn_entities (16 x 16)_43
+  - first:
+      213: 5269059477176940976
+    second: Autumn_entities (16 x 16)_44
+  - first:
+      213: -7141805445852466280
+    second: Autumn_entities (16 x 16)_45
+  - first:
+      213: -3591249322125454139
+    second: Autumn_entities (16 x 16)_46
+  - first:
+      213: 639632783252338937
+    second: Autumn_entities (16 x 16)_47
+  - first:
+      213: -3117619705552375524
+    second: Autumn_entities (16 x 16)_48
+  - first:
+      213: 4903386788344723479
+    second: Autumn_entities (16 x 16)_49
+  - first:
+      213: 6041253075932443774
+    second: Autumn_entities (16 x 16)_50
+  - first:
+      213: 8415566510999127683
+    second: Autumn_entities (16 x 16)_51
+  - first:
+      213: 782102742240880039
+    second: Autumn_entities (16 x 16)_52
+  - first:
+      213: -391939076279184182
+    second: Autumn_entities (16 x 16)_53
+  - first:
+      213: 4029483905239402407
+    second: Autumn_entities (16 x 16)_54
+  - first:
+      213: 3882776011150879560
+    second: Autumn_entities (16 x 16)_55
+  - first:
+      213: -457985948797118421
+    second: Autumn_entities (16 x 16)_56
+  - first:
+      213: -2872337757708985606
+    second: Autumn_entities (16 x 16)_57
+  - first:
+      213: -5424016504855744137
+    second: Autumn_entities (16 x 16)_58
+  - first:
+      213: -256684618931416844
+    second: Autumn_entities (16 x 16)_59
+  - first:
+      213: 2253003794850924042
+    second: Autumn_entities (16 x 16)_60
+  - first:
+      213: 585344193527708410
+    second: Autumn_entities (16 x 16)_61
+  - first:
+      213: -2649370157903703718
+    second: Autumn_entities (16 x 16)_62
+  - first:
+      213: 6428730756882976824
+    second: Autumn_entities (16 x 16)_63
+  - first:
+      213: -1542364438017266303
+    second: Autumn_entities (16 x 16)_64
+  - first:
+      213: -7403137579566424535
+    second: Autumn_entities (16 x 16)_65
+  - first:
+      213: 8294549278304332196
+    second: Autumn_entities (16 x 16)_66
+  - first:
+      213: -6415180559614185127
+    second: Autumn_entities (16 x 16)_67
+  - first:
+      213: 8960717670590526577
+    second: Autumn_entities (16 x 16)_68
+  - first:
+      213: 7882614276898554642
+    second: Autumn_entities (16 x 16)_69
+  - first:
+      213: 5810607301995243640
+    second: Autumn_entities (16 x 16)_70
+  - first:
+      213: -1816143412232100311
+    second: Autumn_entities (16 x 16)_71
+  - first:
+      213: -3949654132258812743
+    second: Autumn_entities (16 x 16)_72
+  - first:
+      213: 2564737956816557185
+    second: Autumn_entities (16 x 16)_73
+  - first:
+      213: 4361337727928358647
+    second: Autumn_entities (16 x 16)_74
+  - first:
+      213: 8207678767928370996
+    second: Autumn_entities (16 x 16)_75
+  - first:
+      213: 5187319536918194603
+    second: Autumn_entities (16 x 16)_76
+  - first:
+      213: -1618066313284684967
+    second: Autumn_entities (16 x 16)_77
+  - first:
+      213: -426746743063100195
+    second: Autumn_entities (16 x 16)_78
+  - first:
+      213: -5633727519069013625
+    second: Autumn_entities (16 x 16)_79
+  - first:
+      213: -5239147309797647188
+    second: Autumn_entities (16 x 16)_80
+  - first:
+      213: -8872664347310723641
+    second: Autumn_entities (16 x 16)_81
+  - first:
+      213: 1064795308947933755
+    second: Autumn_entities (16 x 16)_82
+  - first:
+      213: 1166763662935486138
+    second: Autumn_entities (16 x 16)_83
+  - first:
+      213: -7664271663628651583
+    second: Autumn_entities (16 x 16)_84
+  - first:
+      213: 7895518388863763036
+    second: Autumn_entities (16 x 16)_85
+  - first:
+      213: 4012475559311933465
+    second: Autumn_entities (16 x 16)_86
+  - first:
+      213: 3700651760341571382
+    second: Autumn_entities (16 x 16)_87
+  - first:
+      213: -7525438213216187729
+    second: Autumn_entities (16 x 16)_88
+  - first:
+      213: 4989771396950434126
+    second: Autumn_entities (16 x 16)_89
+  - first:
+      213: -5263800288192679050
+    second: Autumn_entities (16 x 16)_90
+  - first:
+      213: 2337184399189546250
+    second: Autumn_entities (16 x 16)_91
+  - first:
+      213: 2923975187754422578
+    second: Autumn_entities (16 x 16)_92
+  - first:
+      213: 3399078185635301098
+    second: Autumn_entities (16 x 16)_93
+  - first:
+      213: -5822370638075585915
+    second: Autumn_entities (16 x 16)_94
+  - first:
+      213: 8316255873973397168
+    second: Autumn_entities (16 x 16)_95
+  - first:
+      213: 6503118994449621643
+    second: Autumn_entities (16 x 16)_96
+  - first:
+      213: -4153797681577906204
+    second: Autumn_entities (16 x 16)_97
+  - first:
+      213: -713635884975651001
+    second: Autumn_entities (16 x 16)_98
+  - first:
+      213: -5862002730240891857
+    second: Autumn_entities (16 x 16)_99
+  - first:
+      213: 83096302346116075
+    second: Autumn_entities (16 x 16)_100
+  - first:
+      213: -57443269137799496
+    second: Autumn_entities (16 x 16)_101
+  - first:
+      213: -3203534478198972016
+    second: Autumn_entities (16 x 16)_102
+  - first:
+      213: -7427578506344945929
+    second: Autumn_entities (16 x 16)_103
+  - first:
+      213: 5351754460395118530
+    second: Autumn_entities (16 x 16)_104
+  - first:
+      213: 2202382734865552380
+    second: Autumn_entities (16 x 16)_105
+  - first:
+      213: -7186730606804692609
+    second: Autumn_entities (16 x 16)_106
+  - first:
+      213: -5193803177306057439
+    second: Autumn_entities (16 x 16)_107
+  - first:
+      213: -3871297020428765566
+    second: Autumn_entities (16 x 16)_108
+  - first:
+      213: -5745681674072436892
+    second: Autumn_entities (16 x 16)_109
+  - first:
+      213: 5867792250874805581
+    second: Autumn_entities (16 x 16)_110
+  - first:
+      213: -3826283251170138320
+    second: Autumn_entities (16 x 16)_111
+  - first:
+      213: -8196739663900231402
+    second: Autumn_entities (16 x 16)_112
+  - first:
+      213: -1944794502929949242
+    second: Autumn_entities (16 x 16)_113
+  - first:
+      213: 2453940585708416001
+    second: Autumn_entities (16 x 16)_114
+  - first:
+      213: -1215674513467016945
+    second: Autumn_entities (16 x 16)_115
+  - first:
+      213: 4536889593423598263
+    second: Autumn_entities (16 x 16)_116
+  - first:
+      213: -7548344128726598928
+    second: Autumn_entities (16 x 16)_117
+  - first:
+      213: -1565109851107179238
+    second: Autumn_entities (16 x 16)_118
+  - first:
+      213: -2734608169819297769
+    second: Autumn_entities (16 x 16)_119
+  - first:
+      213: 5440290188271858825
+    second: Autumn_entities (16 x 16)_120
+  - first:
+      213: 7353618343181735487
+    second: Autumn_entities (16 x 16)_121
+  - first:
+      213: 8083722463214255924
+    second: Autumn_entities (16 x 16)_122
+  - first:
+      213: 8608377620514117074
+    second: Autumn_entities (16 x 16)_123
+  - first:
+      213: -1690401778346423096
+    second: Autumn_entities (16 x 16)_124
+  - first:
+      213: -587754116589680597
+    second: Autumn_entities (16 x 16)_125
+  - first:
+      213: -8868480697718453125
+    second: Autumn_entities (16 x 16)_126
+  - first:
+      213: -743811884938094555
+    second: Autumn_entities (16 x 16)_127
+  - first:
+      213: -2716059573068481757
+    second: Autumn_entities (16 x 16)_128
+  - first:
+      213: -5050249781982471121
+    second: Autumn_entities (16 x 16)_129
+  - first:
+      213: -57375238751934752
+    second: Autumn_entities (16 x 16)_130
+  - first:
+      213: -8490806352263563549
+    second: Autumn_entities (16 x 16)_131
+  - first:
+      213: 7269180508697368523
+    second: Autumn_entities (16 x 16)_132
+  - first:
+      213: -1778605287945197556
+    second: Autumn_entities (16 x 16)_133
+  - first:
+      213: -4195303505928039198
+    second: Autumn_entities (16 x 16)_134
+  - first:
+      213: 3144428115843194069
+    second: Autumn_entities (16 x 16)_135
+  - first:
+      213: -2578326379924840392
+    second: Autumn_entities (16 x 16)_136
+  - first:
+      213: -2682346625568828564
+    second: Autumn_entities (16 x 16)_137
+  - first:
+      213: 4470397343960846801
+    second: Autumn_entities (16 x 16)_138
+  - first:
+      213: 2046275561634209547
+    second: Autumn_entities (16 x 16)_139
+  - first:
+      213: -4558267932145233166
+    second: Autumn_entities (16 x 16)_140
+  - first:
+      213: 7354137472133726926
+    second: Autumn_entities (16 x 16)_141
+  - first:
+      213: -7265622613981757130
+    second: Autumn_entities (16 x 16)_142
+  - first:
+      213: 3363434717245335989
+    second: Autumn_entities (16 x 16)_143
+  - first:
+      213: -3357684668957369015
+    second: Autumn_entities (16 x 16)_144
+  - first:
+      213: -4200584384957083545
+    second: Autumn_entities (16 x 16)_145
+  - first:
+      213: -5109478070236406743
+    second: Autumn_entities (16 x 16)_146
+  - first:
+      213: -2911270590191217759
+    second: Autumn_entities (16 x 16)_147
+  - first:
+      213: 8720087607741358065
+    second: Autumn_entities (16 x 16)_148
+  - first:
+      213: 121326704794064807
+    second: Autumn_entities (16 x 16)_149
+  - first:
+      213: -6526455921403324126
+    second: Autumn_entities (16 x 16)_150
+  - first:
+      213: 4465841313575190866
+    second: Autumn_entities (16 x 16)_151
+  - first:
+      213: -6998583923966099305
+    second: Autumn_entities (16 x 16)_152
+  - first:
+      213: -481149884709565596
+    second: Autumn_entities (16 x 16)_153
+  - first:
+      213: -7598159329783677557
+    second: Autumn_entities (16 x 16)_154
+  - first:
+      213: 6244308178752832757
+    second: Autumn_entities (16 x 16)_155
+  - first:
+      213: 1810878804116821870
+    second: Autumn_entities (16 x 16)_156
+  - first:
+      213: 2002266234889511060
+    second: Autumn_entities (16 x 16)_157
+  - first:
+      213: 6037731010140985524
+    second: Autumn_entities (16 x 16)_158
+  - first:
+      213: -277373355505662186
+    second: Autumn_entities (16 x 16)_159
+  - first:
+      213: -3618126306841342707
+    second: Autumn_entities (16 x 16)_160
+  - first:
+      213: -5004619610503854009
+    second: Autumn_entities (16 x 16)_161
+  - first:
+      213: 6621035218456642859
+    second: Autumn_entities (16 x 16)_162
+  - first:
+      213: 2217963277451145150
+    second: Autumn_entities (16 x 16)_163
+  - first:
+      213: -5412935372696246435
+    second: Autumn_entities (16 x 16)_164
+  - first:
+      213: 388421349643382446
+    second: Autumn_entities (16 x 16)_165
+  - first:
+      213: -8614808677854150047
+    second: Autumn_entities (16 x 16)_166
+  - first:
+      213: 5837198764270014257
+    second: Autumn_entities (16 x 16)_167
+  - first:
+      213: 7586788445193203812
+    second: Autumn_entities (16 x 16)_168
+  - first:
+      213: 1583886351471551620
+    second: Autumn_entities (16 x 16)_169
+  - first:
+      213: -7485419326540102139
+    second: Autumn_entities (16 x 16)_170
+  - first:
+      213: -881398021902243691
+    second: Autumn_entities (16 x 16)_171
+  - first:
+      213: 7787546197354484160
+    second: Autumn_entities (16 x 16)_172
+  - first:
+      213: 1096885106061433039
+    second: Autumn_entities (16 x 16)_173
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb1c088c772b5af0800000000000000
+      internalID: -406687925534975052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569f8d19698fe0140800000000000000
+      internalID: 4687957587714963813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c12783ec31dafd0800000000000000
+      internalID: -2329183655849485194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd5aaa5e82abba20800000000000000
+      internalID: 3079233502528036278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc829b6adc02cb40800000000000000
+      internalID: 5458939830573632764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d269ec3be88b4e0800000000000000
+      internalID: -1965664334430982820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa8b5d92c2a47ad0800000000000000
+      internalID: -2705358519395448153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97807e0b049fd6e0800000000000000
+      internalID: -1810565749971843173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12adbdaaff3e381d0800000000000000
+      internalID: -3349583010610816479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb04f2d8c07cc78a0800000000000000
+      internalID: -6305946521503317828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6018e028a728cb050800000000000000
+      internalID: 5817668281335447814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d924fdb773ea8ed0800000000000000
+      internalID: -2410864547075970606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2081a2b065b711290800000000000000
+      internalID: -7921414660083279870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140de71ae228d9ba0800000000000000
+      internalID: -6080560785090752447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dde8cd74d3b2420800000000000000
+      internalID: 2606244188216286482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6703d282d1ea873b0800000000000000
+      internalID: -5514466303463837578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cca26c51a78d9600800000000000000
+      internalID: 476686262680595655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d5f400563e125d0800000000000000
+      internalID: -3088937846463046258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce214db1037006450800000000000000
+      internalID: 6079867400156877548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb709164f1057410800000000000000
+      internalID: 1474086602154212299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fe29723469e8980800000000000000
+      internalID: -8534719028649595044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cf30532474a13e0800000000000000
+      internalID: -2082273528022565798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9036c990541000e00800000000000000
+      internalID: 1008807712556606217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b10150175f745ca0800000000000000
+      internalID: -6029053989229624912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f85ef3f71405650800000000000000
+      internalID: 6219543100187316011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5b486f984859bf0800000000000000
+      internalID: -318202470578473503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c646de9ec56878ab0800000000000000
+      internalID: -5005884727179254676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2033075e2d0551360800000000000000
+      internalID: 7139701650988479234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22659736f93b790a0800000000000000
+      internalID: -6874828809007704542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83295055dad733c70800000000000000
+      internalID: 8949635067924550200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e03924f2c763d50800000000000000
+      internalID: 6716692436691914265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5e093206f919800800000000000000
+      internalID: 617449859188843976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a02ffb437db78760800000000000000
+      internalID: 7460139610656415904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360a914f0147cfdd0800000000000000
+      internalID: -2450956481032773533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5069d6a9ebf85b10800000000000000
+      internalID: 1970601817919807582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_35
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdae7b5029e243b0800000000000000
+      internalID: -5529601067274293823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dc32422f0c00820800000000000000
+      internalID: 2882515907738062201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_entities (16 x 16)_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be293d4aa4fc55ed0800000000000000
+      internalID: -2425804904769285397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - vien
+  - Enemy
+  - Enemy2
+  - Enemy3
+  - Enemy4
+  - BulletEnemy3
+  - Backpack
+  - Key
+  - gamemaster
+  - Coins
+  - water
+  - Boss1
+  - Save
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - vien
+  - Enemy
+  - Rock
+  - 'Coins '
+  - water
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 26492679
+    locked: 0
